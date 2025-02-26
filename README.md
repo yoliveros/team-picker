@@ -1,2 +1,2 @@
 > [!Note]
-gcc or clang for compiling
+> gcc or clang for compiling
